@@ -345,7 +345,7 @@ def get_or_create_codex_response(client, prompt_val, best_of_val, temp_val, echo
                 model=config.MODEL,
                 messages=prompt_val,
                 max_tokens=max_tokens_val,
-                n=allowed_suggestions,
+                n=1,
                 temperature=temp_val,
             )
         except openai.RateLimitError as e:
