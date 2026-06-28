@@ -8,8 +8,6 @@ TiCoder is a workflow for python code generation that allows you to interactivel
 2. [Authenticating with OAI](#authenticating-with-openai-or-azure)
 
     2.1 [OpenAI API](#openai-api)
-
-    2.2 [Azure OpenAI](#azure-openai)
 ---
 4. [Basic Usage](#running-a-single-example)
 5. [Benchmarking](#benchmarking)
@@ -55,20 +53,6 @@ Then, set the environment variable:
 ```bash
 export OPENAI_API_KEY=<your_openai_api_key>
 ```
-If you plan to use Azure OpenAI, you can can keep this variable empty. 
-
-### Azure OpenAI
-Azure OpenAI endpoints via OAuth authentication are supported, make sure to run `az login` before trying to run TiCoder. Authentication via API keys are not currently supported. If you are using Azure OpenAI, make sure you have a `configs/azure.json` file with the following structure:
-
-```json
-{
-    "scope": "<YOUR_AZURE_API_SCOPE>",
-    "endpoint": "<YOUR_AZURE_ENDPOINT>",
-    "api_version": "<AZURE_OPENAI_API_VERSION>" 
-}
-```
-
-Then, make sure to run TiCoder with `--use_azure --azure_config configs/azure.json`.
 
 ---
 ## Interaction Modes
