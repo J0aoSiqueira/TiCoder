@@ -1,0 +1,976 @@
+[
+    null,
+    {
+        "func_name": "separate_paren_groups",
+        "index": 1,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    {
+        "func_name": "intersperse",
+        "index": 5,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "parse_nested_parens",
+        "index": 6,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "sum_product",
+        "index": 8,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "make_palindrome",
+        "index": 10,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "string_xor",
+        "index": 11,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "longest",
+        "index": 12,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "string_sequence",
+        "index": 15,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "count_distinct_characters",
+        "index": 16,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "sort_numbers",
+        "index": 19,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "rescale_to_unit",
+        "index": 21,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "concatenate",
+        "index": 28,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "get_positive",
+        "index": 30,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "find_zero",
+        "index": 32,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "sort_even",
+        "index": 37,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "triples_sum_to_zero",
+        "index": 40,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "incr_list",
+        "index": 42,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "pairs_sum_to_zero",
+        "index": 43,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "triangle_area",
+        "index": 45,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "decode_shift",
+        "index": 50,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "remove_vowels",
+        "index": 51,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "correct_bracketing",
+        "index": 56,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "largest_prime_factor",
+        "index": 59,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "strange_sort_list",
+        "index": 70,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "is_happy",
+        "index": 80,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "choose_num",
+        "index": 102,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "count_nums",
+        "index": 108,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "exchange",
+        "index": 110,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "histogram",
+        "index": 111,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "reverse_delete",
+        "index": 112,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "max_fill",
+        "index": 115,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "sort_array",
+        "index": 116,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    {
+        "func_name": "maximum",
+        "index": 120,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "solution",
+        "index": 121,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "add_elements",
+        "index": 122,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "get_odd_collatz",
+        "index": 123,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "valid_date",
+        "index": 124,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "split_words",
+        "index": 125,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "tri",
+        "index": 130,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "sum_squares",
+        "index": 133,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "check_if_last_char_is_a_letter",
+        "index": 134,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "words_in_sentence",
+        "index": 143,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "x_or_y",
+        "index": 150,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "int_to_mini_roman",
+        "index": 156,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "find_max",
+        "index": 158,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null
+]

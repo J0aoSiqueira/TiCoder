@@ -1,0 +1,1779 @@
+[
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "count_Substrings",
+        "index": 19,
+        "num_code_suggestions": 6,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 0,
+                "num_neg_tests": 1,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    1,
+                    2,
+                    4,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 0,
+                "num_neg_tests": 2,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    1,
+                    2,
+                    4,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "is_sublist",
+        "index": 27,
+        "num_code_suggestions": 7,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    1,
+                    1,
+                    1,
+                    3,
+                    1,
+                    1,
+                    2
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 2,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    1,
+                    1,
+                    1,
+                    3,
+                    1,
+                    1,
+                    2
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "comb_sort",
+        "index": 29,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    10
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 2,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    10
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    {
+        "func_name": "is_Diff",
+        "index": 33,
+        "num_code_suggestions": 2,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    9,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "merge_dictionaries_three",
+        "index": 41,
+        "num_code_suggestions": 4,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 0,
+                "num_neg_tests": 1,
+                "status": [],
+                "weights": []
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 1,
+                "num_neg_tests": 1,
+                "status": [],
+                "weights": []
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "divisor",
+        "index": 50,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    10
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "merge_sorted_list",
+        "index": 61,
+        "num_code_suggestions": 5,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    false,
+                    false,
+                    true,
+                    true,
+                    false
+                ],
+                "weights": [
+                    6,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 2,
+                "num_neg_tests": 0,
+                "status": [
+                    false,
+                    false,
+                    true,
+                    true,
+                    false
+                ],
+                "weights": [
+                    6,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "find_length",
+        "index": 73,
+        "num_code_suggestions": 2,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [],
+                "weights": []
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 1,
+                "num_neg_tests": 1,
+                "status": [],
+                "weights": []
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "long_words",
+        "index": 76,
+        "num_code_suggestions": 2,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 0,
+                "num_neg_tests": 1,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    6,
+                    4
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 0,
+                "num_neg_tests": 2,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    6,
+                    4
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "replace_blank",
+        "index": 110,
+        "num_code_suggestions": 2,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    7,
+                    3
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 2,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    7,
+                    3
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    {
+        "func_name": "even_bit_set_number",
+        "index": 114,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 0,
+                "num_neg_tests": 1,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    10
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "count_charac",
+        "index": 119,
+        "num_code_suggestions": 2,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    7,
+                    3
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "count_X",
+        "index": 126,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    10
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    10
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "count_Primes_nums",
+        "index": 131,
+        "num_code_suggestions": 5,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    1,
+                    4,
+                    3,
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "split_two_parts",
+        "index": 136,
+        "num_code_suggestions": 4,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    2,
+                    6,
+                    1,
+                    1
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 2,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    2,
+                    6,
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "count_first_elements",
+        "index": 150,
+        "num_code_suggestions": 9,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    false,
+                    false
+                ],
+                "weights": [
+                    1,
+                    1
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 1,
+                "num_neg_tests": 1,
+                "status": [],
+                "weights": []
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "sum_div",
+        "index": 165,
+        "num_code_suggestions": 2,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 0,
+                "num_neg_tests": 1,
+                "status": [],
+                "weights": []
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 0,
+                "num_neg_tests": 2,
+                "status": [],
+                "weights": []
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "highest_Power_of_2",
+        "index": 180,
+        "num_code_suggestions": 2,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    6,
+                    4
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "find_Parity",
+        "index": 196,
+        "num_code_suggestions": 4,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [],
+                "weights": []
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "find_Average_Of_Cube",
+        "index": 211,
+        "num_code_suggestions": 5,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    6,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 2,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    6,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    {
+        "func_name": "change_date_format",
+        "index": 215,
+        "num_code_suggestions": 5,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    4,
+                    2,
+                    2,
+                    1,
+                    1
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 2,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    4,
+                    2,
+                    2,
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "median_trapezium",
+        "index": 220,
+        "num_code_suggestions": 2,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    3,
+                    7
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 2,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    3,
+                    7
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "extract_string",
+        "index": 237,
+        "num_code_suggestions": 4,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    2,
+                    5
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 1,
+                "num_neg_tests": 1,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    2,
+                    5
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "rectangle_area",
+        "index": 245,
+        "num_code_suggestions": 2,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    8,
+                    2
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "Extract",
+        "index": 247,
+        "num_code_suggestions": 3,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    8,
+                    1
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 2,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    8,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "first_Digit",
+        "index": 263,
+        "num_code_suggestions": 4,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    3,
+                    4,
+                    2,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "split",
+        "index": 274,
+        "num_code_suggestions": 2,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    5,
+                    5
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "my_dict",
+        "index": 288,
+        "num_code_suggestions": 4,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    2,
+                    4,
+                    3
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 2,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    2,
+                    4,
+                    3
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "sum_average",
+        "index": 305,
+        "num_code_suggestions": 4,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    2,
+                    6,
+                    1,
+                    1
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 2,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    2,
+                    6,
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "find_literals",
+        "index": 312,
+        "num_code_suggestions": 2,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    9,
+                    1
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 1,
+                "num_neg_tests": 1,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    9,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "remove_kth_element",
+        "index": 314,
+        "num_code_suggestions": 7,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    1,
+                    1,
+                    2,
+                    1,
+                    3,
+                    1,
+                    1
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 2,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    1,
+                    1,
+                    2,
+                    1,
+                    3,
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "is_upper",
+        "index": 326,
+        "num_code_suggestions": 4,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    4,
+                    2
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 2,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    4,
+                    2
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "add_dict_to_tuple",
+        "index": 344,
+        "num_code_suggestions": 3,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 0,
+                "num_neg_tests": 1,
+                "status": [
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    4,
+                    5,
+                    1
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 0,
+                "num_neg_tests": 2,
+                "status": [
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    4,
+                    5,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "multiply_elements",
+        "index": 350,
+        "num_code_suggestions": 4,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    5,
+                    1,
+                    2,
+                    2
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "find_first_occurrence",
+        "index": 355,
+        "num_code_suggestions": 4,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    2,
+                    3,
+                    4,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "find_Index",
+        "index": 361,
+        "num_code_suggestions": 7,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 0,
+                "num_neg_tests": 1,
+                "status": [
+                    false,
+                    false,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    4,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 0,
+                "num_neg_tests": 2,
+                "status": [
+                    false,
+                    false,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    4,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "capital_words_spaces",
+        "index": 370,
+        "num_code_suggestions": 5,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    1,
+                    2,
+                    4,
+                    2,
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "sort_numeric_strings",
+        "index": 371,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 0,
+                "num_neg_tests": 1,
+                "status": [],
+                "weights": []
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 0,
+                "num_neg_tests": 2,
+                "status": [],
+                "weights": []
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "odd_num_sum",
+        "index": 390,
+        "num_code_suggestions": 6,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    1,
+                    1,
+                    5,
+                    1,
+                    1,
+                    1
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 2,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true,
+                    true,
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    1,
+                    1,
+                    5,
+                    1,
+                    1,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "right_insertion",
+        "index": 405,
+        "num_code_suggestions": 3,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 0,
+                "num_neg_tests": 1,
+                "status": [
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    7,
+                    2,
+                    1
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 1,
+                "num_neg_tests": 1,
+                "status": [
+                    true,
+                    true,
+                    true
+                ],
+                "weights": [
+                    7,
+                    2,
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "return_sum",
+        "index": 413,
+        "num_code_suggestions": 3,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    6,
+                    3
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 2,
+                "num_neg_tests": 0,
+                "status": [
+                    true,
+                    true
+                ],
+                "weights": [
+                    6,
+                    3
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "is_product_even",
+        "index": 421,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 10,
+                "num_queries": 1,
+                "num_pos_tests": 1,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    10
+                ]
+            },
+            {
+                "num_tests": 10,
+                "num_queries": 2,
+                "num_pos_tests": 2,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    10
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null
+]
