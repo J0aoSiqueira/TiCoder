@@ -1,8 +1,56 @@
 [
     null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     {
-        "func_name": "is_not_prime",
-        "index": 1,
+        "func_name": "find_Volume",
+        "index": 9,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "remove_dirty_chars",
+        "index": 12,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "test_duplicate",
+        "index": 13,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -26,8 +74,8 @@
     null,
     null,
     {
-        "func_name": "sort_matrix",
-        "index": 8,
+        "func_name": "smallest_num",
+        "index": 20,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -48,15 +96,105 @@
     null,
     null,
     null,
-    null,
-    null,
-    null,
-    null,
-    null,
+    {
+        "func_name": "bell_number",
+        "index": 25,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "is_Monotonic",
+        "index": 26,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "is_sublist",
+        "index": 27,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "get_equal",
+        "index": 28,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
     null,
     {
-        "func_name": "count_Substrings",
-        "index": 19,
+        "func_name": "dif_Square",
+        "index": 30,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "is_samepatterns",
+        "index": 31,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -76,27 +214,47 @@
     null,
     null,
     null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
-        "func_name": "merge_dictionaries_three",
-        "index": 41,
+        "func_name": "tetrahedral_number",
+        "index": 35,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "volume_sphere",
+        "index": 36,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "get_Char",
+        "index": 37,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -120,29 +278,87 @@
     null,
     null,
     null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
+    {
+        "func_name": "find_substring",
+        "index": 45,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "is_undulating",
+        "index": 46,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
     null,
     {
-        "func_name": "search",
-        "index": 69,
+        "func_name": "index_minimum",
+        "index": 48,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "divisor",
+        "index": 50,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "frequency_lists",
+        "index": 51,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -164,9 +380,10 @@
     null,
     null,
     null,
+    null,
     {
-        "func_name": "multiply_int",
-        "index": 75,
+        "func_name": "sort_sublists",
+        "index": 58,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -196,9 +413,29 @@
     null,
     null,
     null,
+    null,
     {
-        "func_name": "find_lists",
-        "index": 89,
+        "func_name": "find_length",
+        "index": 73,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "sum",
+        "index": 74,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -218,135 +455,10 @@
     null,
     null,
     null,
-    {
-        "func_name": "sum_series",
-        "index": 93,
-        "num_code_suggestions": 1,
-        "results": [
-            {
-                "num_tests": 0,
-                "num_queries": 0,
-                "num_pos_tests": 0,
-                "num_neg_tests": 0,
-                "status": [
-                    true
-                ],
-                "weights": [
-                    1
-                ]
-            }
-        ]
-    },
-    null,
-    null,
-    null,
     null,
     {
-        "func_name": "next_power_of_2",
-        "index": 98,
-        "num_code_suggestions": 1,
-        "results": [
-            {
-                "num_tests": 0,
-                "num_queries": 0,
-                "num_pos_tests": 0,
-                "num_neg_tests": 0,
-                "status": [
-                    false
-                ],
-                "weights": [
-                    1
-                ]
-            }
-        ]
-    },
-    null,
-    null,
-    null,
-    {
-        "func_name": "count_occurance",
-        "index": 102,
-        "num_code_suggestions": 1,
-        "results": [
-            {
-                "num_tests": 0,
-                "num_queries": 0,
-                "num_pos_tests": 0,
-                "num_neg_tests": 0,
-                "status": [
-                    true
-                ],
-                "weights": [
-                    1
-                ]
-            }
-        ]
-    },
-    {
-        "func_name": "check_type",
-        "index": 103,
-        "num_code_suggestions": 1,
-        "results": [
-            {
-                "num_tests": 0,
-                "num_queries": 0,
-                "num_pos_tests": 0,
-                "num_neg_tests": 0,
-                "status": [
-                    true
-                ],
-                "weights": [
-                    1
-                ]
-            }
-        ]
-    },
-    null,
-    null,
-    null,
-    null,
-    {
-        "func_name": "all_Bits_Set_In_The_Given_Range",
-        "index": 108,
-        "num_code_suggestions": 1,
-        "results": [
-            {
-                "num_tests": 0,
-                "num_queries": 0,
-                "num_pos_tests": 0,
-                "num_neg_tests": 0,
-                "status": [
-                    false
-                ],
-                "weights": [
-                    1
-                ]
-            }
-        ]
-    },
-    {
-        "func_name": "re_arrange_array",
-        "index": 109,
-        "num_code_suggestions": 1,
-        "results": [
-            {
-                "num_tests": 0,
-                "num_queries": 0,
-                "num_pos_tests": 0,
-                "num_neg_tests": 0,
-                "status": [
-                    false
-                ],
-                "weights": [
-                    1
-                ]
-            }
-        ]
-    },
-    null,
-    {
-        "func_name": "larg_nnum",
-        "index": 111,
+        "func_name": "reverse_vowels",
+        "index": 79,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -370,6 +482,110 @@
     null,
     null,
     null,
+    {
+        "func_name": "pancake_sort",
+        "index": 87,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "remove_elements",
+        "index": 92,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "replace_blank",
+        "index": 110,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "replace_list",
+        "index": 118,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
     {
         "func_name": "count_charac",
         "index": 119,
@@ -389,9 +605,42 @@
             }
         ]
     },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     {
-        "func_name": "next_Perfect_Square",
-        "index": 120,
+        "func_name": "count_X",
+        "index": 126,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "division_elements",
+        "index": 135,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -410,10 +659,9 @@
     },
     null,
     null,
-    null,
     {
-        "func_name": "harmonic_sum",
-        "index": 124,
+        "func_name": "list_split",
+        "index": 138,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -430,48 +678,9 @@
             }
         ]
     },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
-        "func_name": "max_val",
-        "index": 164,
+        "func_name": "lateralsurface_cube",
+        "index": 139,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -498,8 +707,8 @@
     null,
     null,
     {
-        "func_name": "colon_tuplex",
-        "index": 174,
+        "func_name": "dict_filter",
+        "index": 149,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -508,7 +717,7 @@
                 "num_pos_tests": 0,
                 "num_neg_tests": 0,
                 "status": [
-                    false
+                    true
                 ],
                 "weights": [
                     1
@@ -516,11 +725,45 @@
             }
         ]
     },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     null,
     null,
     {
-        "func_name": "string_to_tuple",
-        "index": 177,
+        "func_name": "flatten_list",
+        "index": 167,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "max_aggregate",
+        "index": 168,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -537,6 +780,15 @@
             }
         ]
     },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
     {
         "func_name": "set_left_most_unset_bit",
         "index": 178,
@@ -548,138 +800,6 @@
                 "num_pos_tests": 0,
                 "num_neg_tests": 0,
                 "status": [
-                    false
-                ],
-                "weights": [
-                    1
-                ]
-            }
-        ]
-    },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    {
-        "func_name": "check_char",
-        "index": 188,
-        "num_code_suggestions": 1,
-        "results": [
-            {
-                "num_tests": 0,
-                "num_queries": 0,
-                "num_pos_tests": 0,
-                "num_neg_tests": 0,
-                "status": [
-                    false
-                ],
-                "weights": [
-                    1
-                ]
-            }
-        ]
-    },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    {
-        "func_name": "snake_to_camel",
-        "index": 201,
-        "num_code_suggestions": 1,
-        "results": [
-            {
-                "num_tests": 0,
-                "num_queries": 0,
-                "num_pos_tests": 0,
-                "num_neg_tests": 0,
-                "status": [
-                    false
-                ],
-                "weights": [
-                    1
-                ]
-            }
-        ]
-    },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    {
-        "func_name": "filter_oddnumbers",
-        "index": 214,
-        "num_code_suggestions": 1,
-        "results": [
-            {
-                "num_tests": 0,
-                "num_queries": 0,
-                "num_pos_tests": 0,
-                "num_neg_tests": 0,
-                "status": [
-                    false
-                ],
-                "weights": [
-                    1
-                ]
-            }
-        ]
-    },
-    null,
-    null,
-    {
-        "func_name": "and_tuples",
-        "index": 217,
-        "num_code_suggestions": 1,
-        "results": [
-            {
-                "num_tests": 0,
-                "num_queries": 0,
-                "num_pos_tests": 0,
-                "num_neg_tests": 0,
-                "status": [
-                    false
-                ],
-                "weights": [
-                    1
-                ]
-            }
-        ]
-    },
-    null,
-    null,
-    {
-        "func_name": "median_trapezium",
-        "index": 220,
-        "num_code_suggestions": 1,
-        "results": [
-            {
-                "num_tests": 0,
-                "num_queries": 0,
-                "num_pos_tests": 0,
-                "num_neg_tests": 0,
-                "status": [
                     true
                 ],
                 "weights": [
@@ -688,66 +808,9 @@
             }
         ]
     },
-    null,
     {
-        "func_name": "text_match_one",
-        "index": 222,
-        "num_code_suggestions": 1,
-        "results": [
-            {
-                "num_tests": 0,
-                "num_queries": 0,
-                "num_pos_tests": 0,
-                "num_neg_tests": 0,
-                "status": [
-                    false
-                ],
-                "weights": [
-                    1
-                ]
-            }
-        ]
-    },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    {
-        "func_name": "count_Occurrence",
-        "index": 234,
-        "num_code_suggestions": 1,
-        "results": [
-            {
-                "num_tests": 0,
-                "num_queries": 0,
-                "num_pos_tests": 0,
-                "num_neg_tests": 0,
-                "status": [
-                    false
-                ],
-                "weights": [
-                    1
-                ]
-            }
-        ]
-    },
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    {
-        "func_name": "check_monthnumb_number",
-        "index": 242,
+        "func_name": "volume_cone",
+        "index": 179,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -768,21 +831,89 @@
     null,
     null,
     null,
+    {
+        "func_name": "get_max_sum",
+        "index": 184,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
     null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
+    {
+        "func_name": "check_distinct",
+        "index": 186,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
     null,
     null,
     null,
     {
-        "func_name": "sort_counter",
-        "index": 259,
+        "func_name": "sum_of_digits",
+        "index": 190,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "bitwise_xor",
+        "index": 191,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "extract_freq",
+        "index": 192,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -801,8 +932,8 @@
     },
     null,
     {
-        "func_name": "is_lower",
-        "index": 261,
+        "func_name": "minimum",
+        "index": 194,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -823,18 +954,9 @@
     null,
     null,
     null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
-        "func_name": "sum_digits",
-        "index": 275,
+        "func_name": "min_product_tuple",
+        "index": 199,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -843,7 +965,7 @@
                 "num_pos_tests": 0,
                 "num_neg_tests": 0,
                 "status": [
-                    true
+                    false
                 ],
                 "weights": [
                     1
@@ -854,8 +976,8 @@
     null,
     null,
     {
-        "func_name": "sort_sublists",
-        "index": 278,
+        "func_name": "remove_odd",
+        "index": 202,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -889,9 +1011,73 @@
     null,
     null,
     null,
+    null,
+    null,
+    null,
+    null,
     {
-        "func_name": "polar_rect",
-        "index": 296,
+        "func_name": "neg_nos",
+        "index": 224,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "remove_odd",
+        "index": 225,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    {
+        "func_name": "surfacearea_cube",
+        "index": 229,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "positive_count",
+        "index": 230,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -914,9 +1100,34 @@
     null,
     null,
     null,
+    null,
+    null,
+    null,
+    null,
     {
-        "func_name": "find_kth",
-        "index": 303,
+        "func_name": "text_match_wordz",
+        "index": 241,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "Find_Min",
+        "index": 244,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -933,6 +1144,389 @@
             }
         ]
     },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "max_subarray_product",
+        "index": 250,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "check_value",
+        "index": 251,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "drop_empty",
+        "index": 252,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "first_Digit",
+        "index": 263,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "Split",
+        "index": 264,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "difference",
+        "index": 265,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "digit_distance_nums",
+        "index": 268,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "count_Pairs",
+        "index": 273,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "issort_list",
+        "index": 276,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "surfacearea_cylinder",
+        "index": 281,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "last_Digit_Factorial",
+        "index": 283,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "find_dissimilar",
+        "index": 285,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "surface_Area",
+        "index": 287,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    {
+        "func_name": "expensive_items",
+        "index": 291,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "list_tuple",
+        "index": 293,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "big_diff",
+        "index": 294,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "perfect_squares",
+        "index": 295,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    {
+        "func_name": "removezero_ip",
+        "index": 299,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
     {
         "func_name": "armstrong_number",
         "index": 304,
@@ -954,41 +1548,9 @@
     },
     null,
     null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
-        "func_name": "tuple_modulo",
-        "index": 319,
-        "num_code_suggestions": 1,
-        "results": [
-            {
-                "num_tests": 0,
-                "num_queries": 0,
-                "num_pos_tests": 0,
-                "num_neg_tests": 0,
-                "status": [
-                    true
-                ],
-                "weights": [
-                    1
-                ]
-            }
-        ]
-    },
-    null,
-    {
-        "func_name": "div_list",
-        "index": 321,
+        "func_name": "first_repeated_char",
+        "index": 307,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -1007,34 +1569,9 @@
     },
     null,
     null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
-        "func_name": "extract_quotation",
-        "index": 349,
+        "func_name": "prime_num",
+        "index": 310,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -1062,48 +1599,9 @@
     null,
     null,
     null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
-        "func_name": "is_decimal",
-        "index": 381,
-        "num_code_suggestions": 1,
-        "results": [
-            {
-                "num_tests": 0,
-                "num_queries": 0,
-                "num_pos_tests": 0,
-                "num_neg_tests": 0,
-                "status": [
-                    true
-                ],
-                "weights": [
-                    1
-                ]
-            }
-        ]
-    },
-    {
-        "func_name": "unique_Element",
-        "index": 382,
+        "func_name": "move_num",
+        "index": 322,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -1121,6 +1619,318 @@
         ]
     },
     null,
+    {
+        "func_name": "get_median",
+        "index": 324,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "get_coordinates",
+        "index": 332,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "pair_xor_Sum",
+        "index": 335,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "wind_chill",
+        "index": 338,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "add_dict_to_tuple",
+        "index": 344,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "multiply_elements",
+        "index": 350,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "find_first_occurrence",
+        "index": 355,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "left_insertion",
+        "index": 358,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "jacobsthal_num",
+        "index": 374,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "min_k",
+        "index": 375,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "second_smallest",
+        "index": 377,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    {
+        "func_name": "count_reverse_pairs",
+        "index": 379,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    false
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "unique_sublists",
+        "index": 380,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "check_monthnumber_number",
+        "index": 383,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
     null,
     {
         "func_name": "number_ctr",
@@ -1146,36 +1956,9 @@
     null,
     null,
     null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
-        "func_name": "unique_sublists",
-        "index": 398,
-        "num_code_suggestions": 1,
-        "results": [
-            {
-                "num_tests": 0,
-                "num_queries": 0,
-                "num_pos_tests": 0,
-                "num_neg_tests": 0,
-                "status": [
-                    true
-                ],
-                "weights": [
-                    1
-                ]
-            }
-        ]
-    },
-    null,
-    {
-        "func_name": "count_divisors",
-        "index": 400,
+        "func_name": "check_expression",
+        "index": 391,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -1197,27 +1980,9 @@
     null,
     null,
     null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
-    null,
     {
-        "func_name": "first_odd",
-        "index": 424,
+        "func_name": "pack_consecutive_duplicates",
+        "index": 397,
         "num_code_suggestions": 1,
         "results": [
             {
@@ -1235,5 +2000,230 @@
         ]
     },
     null,
-    null
+    null,
+    null,
+    {
+        "func_name": "odd_length_sum",
+        "index": 401,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "tuple_str_int",
+        "index": 404,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "count_list",
+        "index": 410,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "return_sum",
+        "index": 413,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "sum_in_range",
+        "index": 414,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "_sum",
+        "index": 415,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "left_rotate",
+        "index": 416,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "remove_all_spaces",
+        "index": 417,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    {
+        "func_name": "test_three_equal",
+        "index": 418,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    null,
+    null,
+    {
+        "func_name": "max_run_uppercase",
+        "index": 423,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    },
+    null,
+    null,
+    {
+        "func_name": "check_smaller",
+        "index": 426,
+        "num_code_suggestions": 1,
+        "results": [
+            {
+                "num_tests": 0,
+                "num_queries": 0,
+                "num_pos_tests": 0,
+                "num_neg_tests": 0,
+                "status": [
+                    true
+                ],
+                "weights": [
+                    1
+                ]
+            }
+        ]
+    }
 ]
